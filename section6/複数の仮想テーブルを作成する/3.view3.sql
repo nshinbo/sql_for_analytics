@@ -19,7 +19,7 @@ view2 AS(
    view1 
   GROUP BY
    user_id 
-)
+),
 
 view3 AS(
   SELECT 
